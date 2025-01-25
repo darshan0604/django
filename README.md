@@ -1,3 +1,3 @@
 # django
 
-# Framework :- Defined Set of rules which is easy to use.
+# Framework :- Defined Set of rules which are developed to use easily
